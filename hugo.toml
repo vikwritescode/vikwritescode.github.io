@@ -8,9 +8,7 @@ theme = 'PaperMod'
 
 [params.homeInfoParams]
     Title = "Who am I?"
-    Content = """
-    I'm Ritvik, a third year Computer Science student in Ireland. I enjoy writing both frontend and backend code, in a range of languages. As of now, I am the creator lead developer of Derivative, an open source tracker for competitive debating with over 450 users. I also have other projects in development, which can be found on my GitHub.
-    """
+    Content = "I'm Ritvik, a third year Computer Science student in Ireland. I enjoy writing both frontend and backend code, in a range of languages. As of now, I am the creator lead developer of Derivative, an open source tracker for competitive debating with over 450 users. I also have other projects in development, which can be found on my GitHub."
     socialIcons = [
         { name = "github", url = "https://github.com/vikwritescode" },
         { name = "linkedin", url = "https://www.linkedin.com/in/ritvik-k-67aa95356/" }]
