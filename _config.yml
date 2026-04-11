@@ -1,3 +1,3 @@
-theme: jekyll-theme-minimal
-title: "Ritvik"
-description: "My Personal Website"
+caches:
+  images:
+    dir: :cacheDir/images
