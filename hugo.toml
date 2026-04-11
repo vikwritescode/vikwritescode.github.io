@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-ie'
+title = 'Ritvik'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
