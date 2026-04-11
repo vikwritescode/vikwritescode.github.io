@@ -5,3 +5,7 @@ theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.homeInfoParams]
+    Title = "Hello"
+    Content = "Hi, I'm Ritvik, a third level student in Ireland."
