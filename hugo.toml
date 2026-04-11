@@ -1,12 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-ie'
-title = 'Ritvik'
+title = 'vikwritescode'
 theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-
-[params]
-    [homeInfoParams]
-        title = 'Ritvik Kumar'
-        content = "Hi, I'm Ritvik, and I'm currently a full stack developer and third level student in ireland."
