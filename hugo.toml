@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-ie'
 title = 'Ritvik'
-
+theme = 'papermod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'

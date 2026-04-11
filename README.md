@@ -1,2 +1,2 @@
-# vikwritescode.github.io
-Personal Website
+# Hello
+I am Ritvik, a developer and computer science student in Ireland.
