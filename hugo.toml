@@ -1,14 +1,22 @@
 baseURL = 'https://vikwritescode.github.io'
 languageCode = 'en-ie'
-title = 'vikwritescode'
+title = 'Ritvik Kumar'
 theme = 'PaperMod'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
 
-[params.homeInfoParams]
-    Title = "Who am I?"
-    Content = "I'm Ritvik, a third year Computer Science student in Ireland. I enjoy writing both frontend and backend code in a range of languages. Currently, I am the creator and lead developer of [Derivative](https://derivative.lol), an open-source tracker for competitive debating with over 450 users. I also have other projects in development, which can be found on my GitHub."
+[params.profileMode]
+    enabled = true
+    title = "Ritvik Kumar"
+
+    [[params.profileMode.buttons]]
+        name = "About Me"
+        url = "/about/"
+
+    [[params.profileMode.buttons]]
+        name = "Projects"
+        url = "/projects/"
 
 [[params.socialIcons]]
     name = "github"
@@ -17,3 +25,17 @@ theme = 'PaperMod'
 [[params.socialIcons]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/ritvik-k-67aa95356/"
+
+[menu]
+    [[menu.main]]
+        name = "Home"
+        url = "/"
+        weight = 1
+    [[menu.main]]
+        name = "Projects"
+        url = "/projects/"
+        weight = 3
+    [[menu.main]]
+        name = "About"
+        url = "/about/"
+        weight = 2
