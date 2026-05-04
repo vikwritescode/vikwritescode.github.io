@@ -9,10 +9,7 @@ theme = 'PaperMod'
 [params.profileMode]
     enabled = true
     title = "Ritvik Kumar"
-
-    [[params.profileMode.buttons]]
-        name = "About Me"
-        url = "/about/"
+    subtitle = "I'm Ritvik, a third year Computer Science student at Trinity College, Dublin. Currently, I am the creator and lead developer of [Derivative](https://derivative.lol), an open-source tracker for competitive debating with over 450 users."
 
     [[params.profileMode.buttons]]
         name = "Projects"
@@ -35,7 +32,3 @@ theme = 'PaperMod'
         name = "Projects"
         url = "/projects/"
         weight = 3
-    [[menu.main]]
-        name = "About"
-        url = "/about/"
-        weight = 2
