@@ -23,6 +23,10 @@ theme = 'PaperMod'
     name = "linkedin"
     url = "https://www.linkedin.com/in/ritvik-k-67aa95356/"
 
+[[params.socialIcons]]
+    name = "email"
+    url = "mailto:hi@rkumar.me"
+
 [menu]
     [[menu.main]]
         name = "Home"
